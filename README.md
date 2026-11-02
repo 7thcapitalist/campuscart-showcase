@@ -44,4 +44,4 @@ MVP. Started in November 2025; most recent work in February 2026. Built on Repli
 
 ## What is shown and what is kept private
 
-This repository contains only this README. The source is private because it was built fast, includes admin and migration utilities, and its git history has not been cleaned for publication. I can walk through the code in a call or screen share.
+This repository contains only this README. The source is private: it is a fast-built MVP with internal admin tooling. I can walk through the code in a call or screen share.
